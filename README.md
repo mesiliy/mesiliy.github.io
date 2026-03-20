@@ -1,8 +1,6 @@
-# ⚖️ LexIN — Indian Legal Assistant
+# ⚖️ Lawgic AI — Indian Legal Assistant
  
-> **LexIN** — *Lex(Law in Latin)+IN(India)*
- 
-LexIN is an AI-powered legal chatbot specializing in Indian law. It answers questions about the Constitution of India, landmark Supreme Court judgements, central and state legislation, and the latest legal developments — in clear, accessible language.
+Lawgic AI is an AI-powered legal chatbot specializing in Indian law. It answers questions about the Constitution of India, landmark Supreme Court judgements, central and state legislation, and the latest legal developments — in clear, accessible language.
  
 ---
  
